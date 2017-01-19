@@ -1,0 +1,24 @@
+/*
+CTC Separate Stylesheet
+Updated: 2017-01-18 15:09:34
+*/
+#intro_section_text_3{
+display:none;
+}
+
+
+.sub-menu a{
+border-bottom: 1px solid #91D8F7;
+border-radius:20px;
+}
+
+.sub-menu a:hover{ 
+color:white !important;
+background-color:#91D8F7;
+border-bottom: 1px solid black;
+text-align:center;
+border-radius:50px;
+
+}
+.container a{
+}
